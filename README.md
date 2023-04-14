@@ -3,7 +3,9 @@
 This repository is starting with the code from [Coding Challenge #31 on YouTube](https://www.youtube.com/watch?v=cXgA1d_E-jY).
 
 From 600-700 generations of training, the AI can get to 10000+ points.
-A json brain file is included in the repo.
+
+## How to run
+python -m http.server
 
 ## How to save the brain
 Press `s` to save the brain. Be careful, it will overwrite the brain.json file.
